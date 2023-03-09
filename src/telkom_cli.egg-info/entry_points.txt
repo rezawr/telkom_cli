@@ -1,0 +1,2 @@
+[console_scripts]
+telkom_cli = telkom_cli.cli:main

@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/telkom_cli/__init__.py
+src/telkom_cli/cli.py
+src/telkom_cli/export.py
+src/telkom_cli.egg-info/PKG-INFO
+src/telkom_cli.egg-info/SOURCES.txt
+src/telkom_cli.egg-info/dependency_links.txt
+src/telkom_cli.egg-info/entry_points.txt
+src/telkom_cli.egg-info/top_level.txt
